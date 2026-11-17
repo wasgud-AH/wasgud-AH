@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hello, I'm Adan
+---
+I live in the valley and am aiming to be a software engineer. I enjoy tinkering on physical systems and my homelab while I work on group projects for my classes.
 
+- Major: Computer Science @ CSU Northridge (Graduating June 2027)
 <!--
 **wasgud-AH/wasgud-AH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
